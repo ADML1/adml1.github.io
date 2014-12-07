@@ -2387,7 +2387,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 .search-form {
     position: relative;
     top: 0;
-    left: -200px;
+    left: -1600px;
     z-index: 9002;
     width: 100%;
     opacity: 0;
