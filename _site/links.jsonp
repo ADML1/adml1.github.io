@@ -1,0 +1,28 @@
+callback([
+
+  {
+    "text": "Gas House OTB",
+    "href": "http://localhost:4000/otb/gas-otb"
+  } ,
+
+  {
+    "text": "Slug'n Hurl OTB",
+    "href": "http://localhost:4000/otb/cal-otb"
+  } ,
+
+  {
+    "text": "ATX OTB",
+    "href": "http://localhost:4000/otb/atx-otb"
+  } ,
+
+  {
+    "text": "2015 Draft",
+    "href": "http://localhost:4000/draft/draft"
+  } ,
+
+  {
+    "text": "Bill Veeck",
+    "href": "http://localhost:4000/quote/seasons-quote"
+  } 
+
+])

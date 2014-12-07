@@ -1,0 +1,43 @@
+[
+	
+		{
+		  "title"      : "Bill Veeck",
+		  "category"   : "quote",
+		  "url"        : "http://localhost:4000/quote/seasons-quote",
+		  "date"       : "2014-12-06 00:00:00 -0800",
+		  "shortdate"  : "December 06, 2014"
+		} ,
+	
+		{
+		  "title"      : "2015 Draft",
+		  "category"   : "",
+		  "url"        : "http://localhost:4000/draft/draft",
+		  "date"       : "2014-12-06 00:00:00 -0800",
+		  "shortdate"  : "December 06, 2014"
+		} ,
+	
+		{
+		  "title"      : "ATX OTB",
+		  "category"   : "",
+		  "url"        : "http://localhost:4000/otb/atx-otb",
+		  "date"       : "2014-11-17 00:00:00 -0800",
+		  "shortdate"  : "November 17, 2014"
+		} ,
+	
+		{
+		  "title"      : "Slug&#39;n Hurl OTB",
+		  "category"   : "",
+		  "url"        : "http://localhost:4000/otb/cal-otb",
+		  "date"       : "2014-11-13 00:00:00 -0800",
+		  "shortdate"  : "November 13, 2014"
+		} ,
+	
+		{
+		  "title"      : "Gas House OTB",
+		  "category"   : "",
+		  "url"        : "http://localhost:4000/otb/gas-otb",
+		  "date"       : "2014-11-12 00:00:00 -0800",
+		  "shortdate"  : "November 12, 2014"
+		} 
+	
+]
