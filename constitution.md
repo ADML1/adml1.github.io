@@ -146,7 +146,7 @@ Actual GS | Playoff GS (per series)
 ----------|------------------------
 <5 | not eligible to start
 5-14 | 1
-15> | unlimited, subject to rule below
+15+ | unlimited, subject to rule below
 
 ####Relievers:
 
