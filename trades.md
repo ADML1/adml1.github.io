@@ -8,6 +8,8 @@ imagefeature: players.jpg
 
 # 2015
 
+**Cleaners:** Neil Walker, 1.12 | **CAL:** 1.1
+
 # 2014
 
 **Salem:** Chase Headley, Kelly Johnson | **Las Cruses:** SAL-2
