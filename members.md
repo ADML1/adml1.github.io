@@ -6,7 +6,7 @@ tags: [members, teams, email, contact]
 imagefeature: 0502_oag_Babe-Ruth.jpg
 ---
 
-TEAM | Manager
+TEAM | MANAGER
 -----|---------
 ATX Run Thump & Bruise (ATX): Turner Field | Daryl Allison: <mailto:Daryl.Allison+ADML1@gmail.com>
 California Slug & Hurl (CAL): AT&T Park | Bob Bruzzone: <mailto:bobbruzzone@comcast.net>
