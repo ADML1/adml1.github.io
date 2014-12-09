@@ -33,6 +33,18 @@ $("a#click-pages").click(function(){
 
 </script>
 
+{% if page.imagefeature %}
+<!-- fixed image background -->
+<script>
+
+$(window).scroll(function() {
+  var scrolledY = $(window).scrollTop();
+  $('#masthead').css('background-position', 'left ' - ((scrolledY)) + 'px');
+});
+
+</script>
+{% endif %}
+
 {% if site.search %}
 <!-- Jekyll Simple Search option -->
 <script>
