@@ -664,11 +664,15 @@ html {
 /* - Inner allignment - */
 .inner {
   display: table-cell;
-  vertical-align: top;
   position: relative;
-  bottom: 0;
-  left: 0;
-  clear: both;
+  /*display: block;*/
+  /*vertical-align: baseline;*/
+  /*text-align: center;*/
+  /*position: absolute;*/
+  /*margin-bottom: 10%;*/
+  /*left: auto;*/
+  /*clear: left;*/
+  /*left: 0;*/
   z-index: 10;
 }
 .align-middle .inner {
@@ -677,11 +681,11 @@ html {
 .align-bottom .inner {
   vertical-align: bottom;
 }
-@media (max-width: 767px) {
+/*@media (max-width: 767px) {
   #masthead .inner {
     top: 0%;
   }
-}
+}*/
 /* - Overlay - */
 .overlay:after {
   content: "";

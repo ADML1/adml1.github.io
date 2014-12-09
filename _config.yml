@@ -1,7 +1,7 @@
 title:            ADML1
 description:      "Abner Doubleday Memorial League 1"
 # update logo.html with list of rotating logos
-logo:             logo-ruth.png
+logo:
 # omikron.png
 disqus_shortname: adml1
 share:            true
