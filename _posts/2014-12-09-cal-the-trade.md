@@ -17,7 +17,7 @@ modified: 2014-12-09
 mathjax:
 ---
 
-Neil Walker & 1.12 for 1.1
+Cleaners get Neil Walker & 1.12 - Slug'n Hurl get 1.1
 
 >After acquiring pick #1, the Slug’n Hurl are making it available for trade.  1B hole WILL be filled with the pick, however, “intriguing” trade offers will be considered.
 ><small><cite title="Slug'n Hurl">Slug'n Hurl</cite></small>
