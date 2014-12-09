@@ -11,4 +11,4 @@ comments: true
 mathjax: 
 ---
 >"There are only two seasons: Winter and Baseball."
->- <cite title="Bill Veeck">Bill Veeck</cite>
+><small><cite title="Bill Veeck">Bill Veeck</cite></small>
