@@ -8,6 +8,7 @@ imagefeature: players.jpg
 
 # 2015
 
+**Mooses:** 1.6 | **Maulers:** Brian Dozier, Jason Hammel, Daniel Nava
 **Cleaners:** Neil Walker, 1.12 | **CAL:** 1.1
 
 # 2014
