@@ -6,6 +6,11 @@ tags: [members, teams, email, contact]
 imagefeature: 0502_oag_Babe-Ruth.jpg
 ---
 
+##<a href="mailto:Daryl.Allison+ADML1@gmail.com,bobbruzzone@comcast.net,edwardcorbell@gmail.com,flc3039@yahoo.com,twworsham@pacbell.net,msgdrake@yahoo.com,derickc@gmail.com,LouvSluggr@aol.com,mcilvafr@yahoo.com,laburdajohn@yahoo.com,brindle95@rogers.com,junskimos@comcast.net,rickamichal@gmail.com,pauled7@aol.com,tosobnk@charter.net,bob25@att.net,DVinson205@aol.com,Jfs523@yahoo.com,10sbumm@sbcglobal.net,UEACES80@aol.com,RbMadi@aol.com,richard@roleary.com,scott.felt@gmail.com,steven.hobe@earthlink.net">Click here to email entire league</a>
+
+### *Can be pasted into an email address field:*
+Daryl.Allison+ADML1@gmail.com, bobbruzzone@comcast.net, edwardcorbell@gmail.com, flc3039@yahoo.com, twworsham@pacbell.net, msgdrake@yahoo.com, derickc@gmail.com, LouvSluggr@aol.com, mcilvafr@yahoo.com, laburdajohn@yahoo.com, brindle95@rogers.com, junskimos@comcast.net, rickamichal@gmail.com, pauled7@aol.com, tosobnk@charter.net, bob25@att.net, DVinson205@aol.com, Jfs523@yahoo.com, 10sbumm@sbcglobal.net, UEACES80@aol.com, RbMadi@aol.com, richard@roleary.com, scott.felt@gmail.com, steven.hobe@earthlink.net
+
 TEAM | MANAGER
 -----|---------
 ATX Run Thump & Bruise (ATX): Turner Field | Daryl Allison: <mailto:Daryl.Allison+ADML1@gmail.com>
