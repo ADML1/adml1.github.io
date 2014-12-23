@@ -1,23 +1,13 @@
 ---
-layout: post
-title: 2015 Draft
-description: "There's no crying in baseball"
-headline: "Who will go #1?"
+layout: page
+permalink: /draft/
+title: Draft
 categories: draft
-type:
-tags: 
-  - rookie
-  - draft
-  - 2015
+tags: [rookie, draft]
 imagefeature: hof.jpg
-comments: true
-featured: true
-published: true
-modified: 2014-12-06
-mathjax:
 ---
 
-Who will be pick 1.1...
+# 2015 Draft
 
 \# | Team | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 
 --|------|---------|---------|---------|---------|---------

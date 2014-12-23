@@ -65,6 +65,8 @@ links:
     url: /members
   - title: Trades
     url: /trades
+  - title: Draft
+    url: /draft
   - title: Categories
     url: /categories
   - title: Tags
