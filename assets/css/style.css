@@ -2482,7 +2482,8 @@ body.search-overlay {
 }
 
 body.search-overlay:after {
-    position: absolute;
+    /*position: absolute;*/
+    position: fixed;
     top: 0;
     left: 0;
     z-index: 9001;
