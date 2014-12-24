@@ -3,8 +3,7 @@
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
 <script type="text/javascript" src="{{ site.url }}/assets/js/waypoints.min.js"></script>
 <script type="text/javascript" src="{{ site.url }}/assets/js/script.js"></script>
-<script type='text/javascript'>console.log("HMFaysal Omega Theme Version 2.0");</script>
-<script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
+<script type="text/javascript" src="{{ site.url }}/assets/js/plugins/jekyll-search.js"></script>
 <script type='text/javascript'>$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
 
 <script type="text/javascript">
@@ -45,15 +44,29 @@ $(window).scroll(function() {
 
 {% if site.search %}
 <!-- Jekyll Simple Search option -->
+
+<script type="text/javascript">
+      SimpleJekyllSearch.init({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        dataSource: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found'
+        // limit: 10,
+        // fuzzy: true
+      })
+</script>
+
 <script>
-  $(document).ready(function() {
-      $('.search-field').simpleJekyllSearch({
-          jsonFile : '{{ site.url }}/search.json',
-          searchResults : '.search-results',
-          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
-          noResults: '<p>Nothing found.</p>'
-        });
-  });
+
+  // $(document).ready(function() {
+  //     $('.search-field').simpleJekyllSearch({
+  //         jsonFile : '{{ site.url }}/search.json',
+  //         searchResults : '.search-results',
+  //         template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+  //         noResults: '<p>Nothing found.</p>'
+  //       });
+  // });
 
   (function( $, window, undefined ) {
     
