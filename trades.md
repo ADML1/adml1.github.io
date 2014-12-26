@@ -8,6 +8,7 @@ imagefeature: players.jpg
 
 # 2015
 
+**Mooses:** 3.21 | **Wings:** Tyler Flowers
 **Gorillas:** 3.8 | **Marsh:** Jason Castro
 **Logs:** Jered Weaver and 3.10 | **Dragoons:** 1.5 and 6.5
 **Mooses:** 1.6 | **Maulers:** Brian Dozier, Jason Hammel, Daniel Nava
