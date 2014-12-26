@@ -8,6 +8,7 @@ imagefeature: players.jpg
 
 # 2015
 
+**ATX:** Brian Matusz and 7.08 | **Marsh:** 5.24
 **Mooses:** 3.21 | **Wings:** Tyler Flowers
 **Gorillas:** 3.8 | **Marsh:** Jason Castro
 **Logs:** Jered Weaver and 3.10 | **Dragoons:** 1.5 and 6.5
