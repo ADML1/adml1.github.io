@@ -13,8 +13,8 @@ imagefeature: hof.jpg
 --|------|---------|---------|---------|---------|---------
 1 | THE | Jose Abreu (CAL) | ? | ? | ? | ?
 2 | LAS | Joc Pederson | ? | ? | ? | ?
-3 | PRS | ? | ? | ? | ? | ?
-4 | LFF | ? | ? | ? | ? | ?
+3 | PRS | Mookie Betts | ? | ? | ? | ?
+4 | LFF | Jacob deGrom | ? | ? | ? | ?
 5 | LIN | SCO | ? | ? | ? | ?
 6 | MAG | LAS | ? | ? | ? | ?
 7 | TAL | ? | ? | ? | ? | ?
