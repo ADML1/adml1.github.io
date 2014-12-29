@@ -11,8 +11,8 @@ imagefeature: hof.jpg
 
 \# | Team | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 
 --|------|---------|---------|---------|---------|---------
-1 | THE | CAL | ? | ? | ? | ?
-2 | LAS | ? | ? | ? | ? | ?
+1 | THE | Jose Abreu (CAL) | ? | ? | ? | ?
+2 | LAS | Joc Pederson | ? | ? | ? | ?
 3 | PRS | ? | ? | ? | ? | ?
 4 | LFF | ? | ? | ? | ? | ?
 5 | LIN | SCO | ? | ? | ? | ?
