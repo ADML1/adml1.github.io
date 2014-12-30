@@ -8,6 +8,8 @@ imagefeature: players.jpg
 
 # 2015
 
+**ATX:** Brondon Moss and David Robertson | **Gorillas:** Mat Latos and 4.24
+**ATX:** Anthony Rendon, Jacoby Ellsbury, 1.23, 3..23 | **Brutes:** Clayton Kershaw, Evan Longoria, 2.24, 6.24
 **ATX:** Brian Matusz and 7.08 | **Marsh:** 5.24
 **Mooses:** 3.21 | **Wings:** Tyler Flowers
 **Gorillas:** 3.8 | **Marsh:** Jason Castro
