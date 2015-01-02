@@ -11,8 +11,8 @@ imagefeature: hof.jpg
 
 \# | Team | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 
 --|------|---------|---------|---------|---------|---------
-1 | THE | Jose Abreu (CAL) | ? | ? | ? | ?
-2 | LAS | Joc Pederson | ? | ? | ? | ?
+1 | THE | Jose Abreu (CAL) | Steven Souza | ? | ? | ?
+2 | LAS | Joc Pederson | Arismendy Alcantara | ? | ? | ?
 3 | PRS | Mookie Betts | ? | ? | ? | ?
 4 | LFF | Jacob deGrom | ? | ? | ? | ?
 5 | LIN | Jorge Soler (SCO) | ? | ? | ? | ?
@@ -29,12 +29,12 @@ imagefeature: hof.jpg
 16 | SAL | Dellin Betances | ? | ? | ? | ?
 17 | HIL | Kevin Kiermaier | ? | ? | ? | ?
 18 | TEX | Marcus Stroman | ? | ? | ? | ?
-19 | SAX | ? | ? | ? | ? | ?
-20 | JUN | ? | ? | ? | ? | ?
-21 | DET | ? | ? | LAS | ? | ?
-22 | GAS | ? | ? | ? | ? | ?
-23 | FLR | ATX | ? | ATX | ? | ?
-24 | ATX | ? | FLR | ? | GAS | HOL
+19 | SAX | Masahiro Tanaka | ? | ? | ? | ?
+20 | JUN | Aaron Sanchez | ? | ? | ? | ?
+21 | DET | Kennys Vargas | ? | LAS | ? | ?
+22 | GAS | Ken Giles | ? | ? | ? | ?
+23 | FLR | Michael Taylor WSN (ATX) | ? | ATX | ? | ?
+24 | ATX | Dalton Pompey | FLR | ? | GAS | HOL
 
 <br>
 
