@@ -8,9 +8,11 @@ imagefeature: players.jpg
 
 # 2015
 
+**ATX:** Derek Norris and 3.3 | **Red Sox:** Rick Porcello and 3.23
+**ATX:** 2.23, 2.24, 4.23, A.J. Ramos | **Brutes:** Jacoby Ellsbury, Carl Crawford, Brandon Kintzler, 7.8
 **ATX:** Andrew Miller and Carl Crawford | **Necromancers:** Carlos Gonzalez
 **ATX:** Brondon Moss and David Robertson | **Gorillas:** Mat Latos and 4.24
-**ATX:** Anthony Rendon, Jacoby Ellsbury, 1.23, 3..23 | **Brutes:** Clayton Kershaw, Evan Longoria, 2.24, 6.24
+**ATX:** Anthony Rendon, Jacoby Ellsbury, 1.23, 3.23 | **Brutes:** Clayton Kershaw, Evan Longoria, 2.24, 6.24
 **ATX:** Brian Matusz and 7.08 | **Marsh:** 5.24
 **Mooses:** 3.21 | **Wings:** Tyler Flowers
 **Gorillas:** 3.8 | **Marsh:** Jason Castro

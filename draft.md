@@ -13,28 +13,28 @@ imagefeature: hof.jpg
 --|------|---------|---------|---------|---------|---------
 1 | THE | Jose Abreu (CAL) | Steven Souza | ? | ? | ?
 2 | LAS | Joc Pederson | Arismendy Alcantara | ? | ? | ?
-3 | PRS | Mookie Betts | ? | ? | ? | ?
-4 | LFF | Jacob deGrom | ? | ? | ? | ?
-5 | LIN | Jorge Soler (SCO) | ? | ? | ? | ?
-6 | MAG | Gregory Polanco (LAS) | ? | ? | ? | ?
-7 | TAL | Danny Santana | ? | ? | ? | ?
-8 | HOL | George Springer | ? | GAS | ? | ?
-9 | MUD | Brock Holt | ? | ? | ? | ?
-10 | SCO | Rougned Odor | ? | LIN | ? | ?
-11 | CHI | Javier Baez | ? | ? | ? | ?
-12 | CAL | Joe Panik (THE) | ? | ? | ? | ?
-13 | DEL | Jon Singleton | ? | ? | ? | ?
-14 | CRB | Lorenzo Cain | ? | ? | ? | ?
-15 | GEN | Rusney Castillo | ? | ? | ? | ?
-16 | SAL | Dellin Betances | ? | ? | ? | ?
-17 | HIL | Kevin Kiermaier | ? | ? | ? | ?
-18 | TEX | Marcus Stroman | ? | ? | ? | ?
-19 | SAX | Masahiro Tanaka | ? | ? | ? | ?
-20 | JUN | Aaron Sanchez | ? | ? | ? | ?
-21 | DET | Kennys Vargas | ? | LAS | ? | ?
-22 | GAS | Ken Giles | ? | ? | ? | ?
-23 | FLR | Michael Taylor WSN (ATX) | ? | ATX | ? | ?
-24 | ATX | Dalton Pompey | FLR | ? | GAS | HOL
+3 | PRS | Mookie Betts | Christian Vazquez | ATX | ? | ?
+4 | LFF | Jacob deGrom | Collin McHugh | ? | ? | ?
+5 | LIN | Jorge Soler (SCO) | Dilson Herrera | ? | ? | ?
+6 | MAG | Gregory Polanco (LAS) | Casey McGehee | ? | ? | ?
+7 | TAL | Danny Santana | Robinson Chirinos | ? | ? | ?
+8 | HOL | George Springer | Zach Britton | GAS | ? | ?
+9 | MUD | Brock Holt | Drew Hutchison | ? | ? | ?
+10 | SCO | Rougned Odor | Yangervis Solarte | LIN | ? | ?
+11 | CHI | Javier Baez | Ruby De La Rosa | ? | ? | ?
+12 | CAL | Joe Panik (THE) | Hector Rondon | ? | ? | ?
+13 | DEL | Jon Singleton | Leury Garcia | ? | ? | ?
+14 | CRB | Lorenzo Cain | Roenis Elias | ? | ? | ?
+15 | GEN | Rusney Castillo | David Buchanan | ? | ? | ?
+16 | SAL | Dellin Betances | David Peralta | ? | ? | ?
+17 | HIL | Kevin Kiermaier | Matt Shoemaker | ? | ? | ?
+18 | TEX | Marcus Stroman | Jesse Hahn | ? | ? | ?
+19 | SAX | Masahiro Tanaka | Rene Rivera | ? | ? | ?
+20 | JUN | Aaron Sanchez | Shane Green | ? | ? | ?
+21 | DET | Kennys Vargas | CJ Cron | LAS | ? | ?
+22 | GAS | Ken Giles | Maikel Franco | ? | ? | ?
+23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | PRS | ATX | ?
+24 | ATX | Dalton Pompey | Daniel Norris | ? | GAS | HOL
 
 <br>
 
@@ -47,7 +47,7 @@ imagefeature: hof.jpg
 5 | LIN | SCO | ? | ? | ? | ?
 6 | MAG | ? | ? | ? | ? | ?
 7 | TAL | ? | ? | ? | ? | ?
-8 | HOL | ? | ATX | ? | ? | ?
+8 | HOL | ? | FLR | ? | ? | ?
 9 | MUD | ? | ? | ? | ? | ?
 10 | SCO | ? | ? | ? | ? | ?
 11 | CHI | ? | ? | ? | ? | ?
