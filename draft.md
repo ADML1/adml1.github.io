@@ -11,14 +11,14 @@ imagefeature: hof.jpg
 
 \# | Team | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 
 --|------|---------|---------|---------|---------|---------
-1 | THE | Jose Abreu (CAL) | Steven Souza | ? | ? | ?
-2 | LAS | Joc Pederson | Arismendy Alcantara | ? | ? | ?
-3 | PRS | Mookie Betts | Christian Vazquez | ATX | ? | ?
-4 | LFF | Jacob deGrom | Collin McHugh | ? | ? | ?
-5 | LIN | Jorge Soler (SCO) | Dilson Herrera | ? | ? | ?
-6 | MAG | Gregory Polanco (LAS) | Casey McGehee | ? | ? | ?
+1 | THE | Jose Abreu (CAL) | Steven Souza | Jake Lamb | ? | ?
+2 | LAS | Joc Pederson | Arismendy Alcantara | Kyle Hendricks | ? | ?
+3 | PRS | Mookie Betts | Christian Vazquez | Ender Inciarte (HOL) | ? | ?
+4 | LFF | Jacob deGrom | Collin McHugh | Andrew Heaney | ? | ?
+5 | LIN | Jorge Soler (SCO) | Dilson Herrera | Enrique Hernandez | ? | ?
+6 | MAG | Gregory Polanco (LAS) | Casey McGehee | Blake Treinen | ? | ?
 7 | TAL | Danny Santana | Robinson Chirinos | ? | ? | ?
-8 | HOL | George Springer | Zach Britton | GAS | ? | ?
+8 | HOL | George Springer | Zach Britton | GAS | ATX | ATX
 9 | MUD | Brock Holt | Drew Hutchison | ? | ? | ?
 10 | SCO | Rougned Odor | Yangervis Solarte | LIN | ? | ?
 11 | CHI | Javier Baez | Ruby De La Rosa | ? | ? | ?
@@ -33,7 +33,7 @@ imagefeature: hof.jpg
 20 | JUN | Aaron Sanchez | Shane Green | ? | ? | ?
 21 | DET | Kennys Vargas | CJ Cron | LAS | ? | ?
 22 | GAS | Ken Giles | Maikel Franco | ? | ? | ?
-23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | PRS | ATX | ?
+23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | PRS | LIN | ?
 24 | ATX | Dalton Pompey | Daniel Norris | ? | GAS | HOL
 
 <br>
@@ -63,7 +63,7 @@ imagefeature: hof.jpg
 21 | DET | ? | ? | ? | ? | ?
 22 | GAS | ? | ? | ? | ? | ?
 23 | FLR | ? | ? | ? | ? | ?
-24 | ATX | FLR | ? | ? | ? | ?
+24 | ATX | FLR | HOL | ? | ? | ?
 
 <br>
 
