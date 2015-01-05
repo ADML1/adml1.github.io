@@ -8,6 +8,7 @@ imagefeature: players.jpg
 
 # 2015
 
+**ATX:** 4.8 and 5.8 | **HOL:** 3.3 and 7.24
 **ATX:** Marcell Ozuna | **LIN:** Brandon Belt and 4.23
 **ATX:** Derek Norris and 3.3 | **Red Sox:** Rick Porcello and 3.23
 **ATX:** 2.23, 2.24, 4.23, A.J. Ramos | **Brutes:** Jacoby Ellsbury, Carl Crawford, Brandon Kintzler, 7.8
