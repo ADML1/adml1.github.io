@@ -17,17 +17,17 @@ imagefeature: hof.jpg
 4 | LFF | Jacob deGrom | Collin McHugh | Andrew Heaney | ? | ?
 5 | LIN | Jorge Soler (SCO) | Dilson Herrera | Enrique Hernandez | ? | ?
 6 | MAG | Gregory Polanco (LAS) | Casey McGehee | Blake Treinen | ? | ?
-7 | TAL | Danny Santana | Robinson Chirinos | ? | ? | ?
-8 | HOL | George Springer | Zach Britton | GAS | ATX | ATX
-9 | MUD | Brock Holt | Drew Hutchison | ? | ? | ?
-10 | SCO | Rougned Odor | Yangervis Solarte | LIN | ? | ?
-11 | CHI | Javier Baez | Ruby De La Rosa | ? | ? | ?
-12 | CAL | Joe Panik (THE) | Hector Rondon | ? | ? | ?
-13 | DEL | Jon Singleton | Leury Garcia | ? | ? | ?
-14 | CRB | Lorenzo Cain | Roenis Elias | ? | ? | ?
-15 | GEN | Rusney Castillo | David Buchanan | ? | ? | ?
-16 | SAL | Dellin Betances | David Peralta | ? | ? | ?
-17 | HIL | Kevin Kiermaier | Matt Shoemaker | ? | ? | ?
+7 | TAL | Danny Santana | Robinson Chirinos | Vidal Nuno | ? | ?
+8 | HOL | George Springer | Zach Britton | Neil Ramirez (GAS) | ATX | ATX
+9 | MUD | Brock Holt | Drew Hutchison | Pat Neshek | ? | ?
+10 | SCO | Rougned Odor | Yangervis Solarte | Neftali Feliz (LIN) | ? | ?
+11 | CHI | Javier Baez | Ruby De La Rosa | Tyler Matzek | ? | ?
+12 | CAL | Joe Panik (THE) | Hector Rondon | Fernando Abad | ? | ?
+13 | DEL | Jon Singleton | Leury Garcia | Jeurys Familia | ? | ?
+14 | CRB | Lorenzo Cain | Roenis Elias | Shae Simmons | ? | ?
+15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | ? | ?
+16 | SAL | Dellin Betances | David Peralta | Chris Taylor | ? | ?
+17 | HIL | Kevin Kiermaier | Matt Shoemaker | Travis Snyder | ? | ?
 18 | TEX | Marcus Stroman | Jesse Hahn | ? | ? | ?
 19 | SAX | Masahiro Tanaka | Rene Rivera | ? | ? | ?
 20 | JUN | Aaron Sanchez | Shane Green | ? | ? | ?
