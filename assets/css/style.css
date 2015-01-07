@@ -80,10 +80,10 @@ h6 {
 a {
   text-decoration: none;
 }
-@include transition(color 0.2s);
+/*@include transition(color 0.2s);
 a:hover {
   text-decoration: none;
-}
+}*/
 .more-link {
   line-height: 18px;
   font-size: 18px;
@@ -382,12 +382,16 @@ h6,
   color: #1e1e1f;
 }
 a {
-  color: #807f83;
-  border-color: #807f83;
+  /*color: #807f83;
+  border-color: #807f83;*/
+  color: #c91b26;
+  border-color: #c91b26;
 }
 a:hover {
-  color: #67666a;
-  border-color: #67666a;
+  /*color: #67666a;
+  border-color: #67666a;*/
+  color: #c91b26;
+  border-color: #c91b26;
 }
 blockquote:before {
   background: #57ad68;
@@ -4049,6 +4053,10 @@ th {
   padding: 0 10px;
 }
 
+/*Table of Contents*/
+.toc {
+  text-align:right;
+}
 
 /*      Responsive      */
 

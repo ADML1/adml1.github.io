@@ -28,12 +28,12 @@ imagefeature: hof.jpg
 15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | ? | ?
 16 | SAL | Dellin Betances | David Peralta | Chris Taylor | ? | ?
 17 | HIL | Kevin Kiermaier | Matt Shoemaker | Travis Snyder | ? | ?
-18 | TEX | Marcus Stroman | Jesse Hahn | ? | ? | ?
-19 | SAX | Masahiro Tanaka | Rene Rivera | ? | ? | ?
-20 | JUN | Aaron Sanchez | Shane Green | ? | ? | ?
-21 | DET | Kennys Vargas | CJ Cron | LAS | ? | ?
-22 | GAS | Ken Giles | Maikel Franco | ? | ? | ?
-23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | PRS | LIN | ?
+18 | TEX | Marcus Stroman | Jesse Hahn | Michael McKenry | ? | ?
+19 | SAX | Masahiro Tanaka | Rene Rivera | Chris Young | ? | ?
+20 | JUN | Aaron Sanchez | Shane Green | Steven Moya | ? | ?
+21 | DET | Kennys Vargas | CJ Cron | Garin Cecchini (LAS) | ? | ?
+22 | GAS | Ken Giles | Maikel Franco | Rafael Montero | ? | ?
+23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | TJ House (PRS) | LIN | ?
 24 | ATX | Dalton Pompey | Daniel Norris | ? | GAS | HOL
 
 <br>
