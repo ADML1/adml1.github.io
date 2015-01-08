@@ -99,7 +99,7 @@ All home games must be played and reported to both the statistician and all visi
     <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
 </div>
 
-Team rosters will have 35 players. No more than 3 players on a team's roster may be unrated by DMB. Teams rosters must have sufficient batting and pitching resources to cover the 158 game schedule. Sufficient resources would be 158 starts, approximately 700 plate appearances per position, and enough relievers to cover 2,200 batters faced.
+Team rosters will have 35 players. No more than 3 players on a team's roster may be unrated by DMB. Teams rosters must have sufficient batting and pitching resources to cover the 158 game schedule. Sufficient resources would be 158 starts, approximately 700 plate appearances per position, and enough relievers to cover 2,000 batters faced.
 
 Of the players on a team's roster, 27 are designated as active for each series. The 27 players designated as active may differ from series to series.During September only, all players on a team's roster (except for unrated players) may be designated as active.
 
