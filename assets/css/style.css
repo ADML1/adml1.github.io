@@ -4054,8 +4054,18 @@ th {
 }
 
 /*Table of Contents*/
-.toc {
-  text-align:right;
+h1.toc {
+  float: right;
+  display: inline-block;
+  margin: 0;
+}
+
+.toc-header h1 {
+  display: inline;
+}
+
+.toc-header {
+  margin-bottom: 24px;
 }
 
 /*      Responsive      */

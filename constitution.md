@@ -5,23 +5,63 @@ title: Constitution & By-Laws
 tags: [constitution, by-laws, rules]
 imagefeature: robinson.jpg
 ---
-#OVERVIEW
+<h3 id="contents">Contents</h3>
 
-The ADML consists of 24 franchises. These franchises utilize the Diamond Mind computer game to play a pre-determined schedule of assigned games. The results of these games are reported to the league statistician as well as the opposing franchise manager each month on a timely basis. The results are then compiled on a monthly basis and distributed to each franchise.
+1. [Overview](#overview)
+2. [Requirements](#requirements)
+3. [League Philosophy](#league-philosophy)
+4. [Dues](#dues)
+5. [Organizational Structure](#organizational-structure)
+6. [League Structure](#league-structure)
+7. [Franchises](#franchises)
+8. [Schedule](#schedule)
+9. [Rosters](#rosters)
+10. [Player Limits](#player-limits)
+11. [Rookie Draft](#rookie-draft)
+12. [Series Play](#series-play)
+- [Regular Season](#regular-season)
+- [Playoffs](#playoffs)
+- [Playoff Player Usage](#playoff-player-usage)
+13. [Trading](#trading)
+14. [Penalties](#penalties)
+- [Overuse](#overuse)
+- [Lateness](#lateness)
+15. [Miscellaneous](#miscellaneous)
 
-#REQUIREMENTS
+<hr>
+
+<div class="toc-header">
+    <h1 class="toc-header" id="overview">OVERVIEW</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
+
+ADML consists of 24 franchises. These franchises utilize the Diamond Mind computer game to play a pre-determined schedule of assigned games. The results of these games are reported to the league statistician as well as the opposing franchise manager each month on a timely basis. The results are then compiled on a monthly basis and distributed to each franchise.
+
+<div class="toc-header">
+    <h1 id="requirements">REQUIREMENTS</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 Each member of the ADML MUST own the Diamond Mind Baseball computer game (latest version) as well as the Diamond Mind Baseball player disk that the season is based upon.
 
-#LEAGUE PHILOSOPHY
+<div class="toc-header">
+    <h1 id="league-philosophy">LEAGUE PHILOSOPHY</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 The ADML exists for the enjoyment and sportsmanship of its members. It is intended to supply an outlet for fellowship, fairness, and competitiveness. It is a non-profit organization whose dues and monies (when applied) are used to cover expenses incurred in the operation of the league.
 
-#DUES
+<div class="toc-header">
+    <h1 id="dues">DUES</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 The annual dues are presently are waived. This money will be used for purchase/mailing of awards. The commissioner and/or the league committee may reinitiate dues as needed.
 
-#ORGANIZATIONAL STRUCTURE
+<div class="toc-header">
+    <h1 id="organizational-structure">ORGANIZATIONAL STRUCTURE</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 The ADML consists of 24 members, with each member having responsibility for the prompt and conscientious management of the obligations of their franchise. The ADML is governed by a Commissioner who is assisted by the ADML League  Committee. The ADML League Committee consists of 6 league members.  The Commissioner will be a voting member of the League Committee only to break ties.
 
@@ -29,15 +69,24 @@ In any vote taken by the League Committee, a simple majority vote will determine
 
 The Commissioner has complete and final authority.
 
-#LEAGUE STRUCTURE
+<div class="toc-header">
+    <h1 id="league-structure">LEAGUE STRUCTURE</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 The 24 franchises are divided into 2 conferences. Each conference consists of 12 franchises, divided into 2 divisions.
 
-#FRANCHISES
+<div class="toc-header">
+    <h1 id="franchises">FRANCHISES</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 Each franchise maintains a roster of players, utilizing these players to instruct other franchises in the playing of all away series as well as utilizing them in the playing of all home series. Each home franchise reports the statistical results of these series to the league statistician as well as the visiting franchise.
 
-#SCHEDULE
+<div class="toc-header">
+    <h1 id="schedule">SCHEDULE</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 Regular season play will begin April 1st and end September 20. Each team will play 158 games.
 
@@ -45,9 +94,12 @@ The Diamond Mind Computer Manager will be used for visiting teams. The manager p
 
 All home games must be played and reported to both the statistician and all visiting managers by the 20th of each month.
 
-#ROSTERS
+<div class="toc-header">
+    <h1 id="rosters">ROSTERS</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
-Team rosters will have 35 players. No more than 3 players on a team's roster may be unrated by DMB. Teams rosters must have sufficient batting and pitching resources to cover the 158 game schedule. Sufficient resources would be 158 starts, approximately 700 plate appearances per position, and approximately 300 relief appearances.
+Team rosters will have 35 players. No more than 3 players on a team's roster may be unrated by DMB. Teams rosters must have sufficient batting and pitching resources to cover the 158 game schedule. Sufficient resources would be 158 starts, approximately 700 plate appearances per position, and enough relievers to cover 2,200 batters faced.
 
 Of the players on a team's roster, 27 are designated as active for each series. The 27 players designated as active may differ from series to series.During September only, all players on a team's roster (except for unrated players) may be designated as active.
 
@@ -57,17 +109,25 @@ Final roster cuts to 35 players must be submitted to the commissioner by midnigh
 
 For one week (March 16-22), each team may make one drop-add move. They may drop one player from their roster, and add one player from the  available player pool. This will be on a first come, first served basis. If for any reason a team does not have 35 players on their rosters as of March 16th, the Commissioner will randomly assign a DMB free agent player to complete the roster.
 
-#PLAYER LIMITS
+<div class="toc-header">
+    <h1 id="player-limits">PLAYER LIMITS</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
-The DMB game will be used to manage maximum batting limits. Batters will be adjusted by the game to the value of replacement players after they have reached 110% of overall plate appearances, OR 166% on splits. Please see the in game help menu for more detail.
+The DMB game will be used to manage maximum batting limits. Batters will be adjusted by the game to the value of replacement players after they have reached 100% of overall plate appearances, OR 166% on splits. Please see the in game help menu for more detail.
 
 The number of ADML starts will be limited to their actual number of MLB starts times 1.1 up to a maximum of 34 starts. Players with more than 34 actual MLB starts will be limited to their actual number of MLB starts.
 
 Relief pitchers and Starter/Relief pitchers will be limited to 110% of their batters faced.
 
+At the conclusion of the regular season any player who is over 110% of PA or BF (starting pitchers will use GS as a measure), is considered fatigued and ineligible to participate in the playoffs. If a manager has too many ineligible players to field a team, that team will forfeit its games.
+
 All batters with at least 200 actual AB's must accumulate at least 50% of their actual PA total as ADML plate appearances or they will be released from their team and made available in the next rookie draft. The % meter in the game will be used.
 
-#ROOKIE DRAFT
+<div class="toc-header">
+    <h1 id="rookie-draft">ROOKIE DRAFT</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 - The Rookie Draft will be conducted via email.
 - Any player rated by Diamond Mind Baseball who is not already on an ADML roster is eligible to be selected in the ADML Rookie Draft.
@@ -76,9 +136,12 @@ All batters with at least 200 actual AB's must accumulate at least 50% of their 
 - In the case where there is a tie in W-L records we will alternate the teams in subsequent rounds with identical records.
 - All ties are broken by, in order, worse home W-L record, head to head play (if applicable), or coin flip.
 
-#SERIES PLAY
+<div class="toc-header">
+    <h1 id="series-play">SERIES PLAY</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
-##Regular Season:
+<h2 id="regular-season">Regular Season:</h2>
 
 - Each month's games MUST be played in an ADML directory with no prior stats.
 - The DH is used for all league games.
@@ -93,7 +156,7 @@ All batters with at least 200 actual AB's must accumulate at least 50% of their 
 - Results consist of game boxscores, game scoresheets, visiting team batting and pitching series stats, and visiting team series export statistics files (_____.EXP)
 - Monthly stats MUST reach the Commissioner or his designee by the 20th of each month.
 
-##Playoffs
+<h2 id="playoffs">Playoffs:</h2>
 
 At the conclusion of the regular season, the commissioner will announce the playoff matchups for the first round and send out a playoff database. The participants will then have 14 days to complete their series. If at that time the series is not complete, the commissioner or a designee will finish it. The commissioner or designee will use manager profiles from the participants if provided. If none are provided then the commissioner shall generate profiles. The same will hold true of the second round and the World Series - 14 days for each series from the time the database is sent to the participants.
 
@@ -123,7 +186,7 @@ Once a playoff series is completed, the home manager that played the final game 
 
 If a playoff series is played face to face, only one file needs to be sent to the commissioner and statistician.
 
-##PLAYOFF PLAYER USAGE:
+<h2 id="playoff-player-usage">PLAYOFF PLAYER USAGE:</h2>
 
 ###Batters: 
 
@@ -159,29 +222,38 @@ Actual innings | Playoff innings (per series)
 
 *A starting pitcher must have at least 2 games rest between starts.*
 
-##TRADING
+<div class="toc-header">
+    <h1 id="trading">TRADING</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 The trading period is from November 1st through March 15th.  Both managers must report all trades to the Commissioner. Only draft choices for the NEXT season may be traded. All trades are subject to the approval of the Commissioner and/or League Committee.
 
-##PENALTIES
+<div class="toc-header">
+    <h1 id="penalties">PENALTIES</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
-###Overuse:
+<h2 id="overuse">Overuse:</h2>
 
-At the conclusion of the regular season any player who is over 110% of pa or bf (starting pitchers will use GS as a measure), is considered fatigued and ineligible to participate in the playoffs. If a manager has too many ineligible players to field a team, that team will forfeit its games. 
+At the conclusion of the regular season any player who is over 110% of PA or BF (starting pitchers will use GS as a measure), is considered fatigued and ineligible to participate in the playoffs. If a manager has too many ineligible players to field a team, that team will forfeit its games. 
 
 Overuse of players will be dealt with on a case by case basis by the Commissioner and/or League Committee.
 
-###Lateness:
+<h2 id="lateness">Lateness:</h2>
 
 Since late stat files affect the entire league, consistently late stat files to the commissioner will be penalized harshly.
 
 Late profiles/series results to visiting managers: These will be dealt with on an individual basis by the Commissioner and/or League Committee.
 
-###Penalty note:
+##Penalty Note:
 
 All penalties for a team will be null and void if that manager quits or is dropped from the league.
 
-##MISCELLANEOUS
+<div class="toc-header">
+    <h1 id="miscellaneous">MISCELLANEOUS</h1>
+    <h1 class="toc"><a href="#contents"><i class="icon-upload"></i></a></h1>
+</div>
 
 Era setting for each season, AL or NL, will be determined by coin flip.
 

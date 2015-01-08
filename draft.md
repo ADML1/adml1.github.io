@@ -11,12 +11,12 @@ imagefeature: hof.jpg
 
 \# | Team | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 
 --|------|---------|---------|---------|---------|---------
-1 | THE | Jose Abreu (CAL) | Steven Souza | Jake Lamb | ? | ?
-2 | LAS | Joc Pederson | Arismendy Alcantara | Kyle Hendricks | ? | ?
-3 | PRS | Mookie Betts | Christian Vazquez | Ender Inciarte (HOL) | ? | ?
-4 | LFF | Jacob deGrom | Collin McHugh | Andrew Heaney | ? | ?
-5 | LIN | Jorge Soler (SCO) | Dilson Herrera | Enrique Hernandez | ? | ?
-6 | MAG | Gregory Polanco (LAS) | Casey McGehee | Blake Treinen | ? | ?
+1 | THE | Jose Abreu (CAL) | Steven Souza | Jake Lamb | Justin Bour | ?
+2 | LAS | Joc Pederson | Arismendy Alcantara | Kyle Hendricks | Randal Grichuk | ?
+3 | PRS | Mookie Betts | Christian Vazquez | Ender Inciarte (HOL) | Eugenio Suarez | ?
+4 | LFF | Jacob deGrom | Collin McHugh | Andrew Heaney | Tony Sipp | ?
+5 | LIN | Jorge Soler (SCO) | Dilson Herrera | Enrique Hernandez | David Lough | ?
+6 | MAG | Gregory Polanco (LAS) | Casey McGehee | Blake Treinen | Elian Herrera | ?
 7 | TAL | Danny Santana | Robinson Chirinos | Vidal Nuno | ? | ?
 8 | HOL | George Springer | Zach Britton | Neil Ramirez (GAS) | ATX | ATX
 9 | MUD | Brock Holt | Drew Hutchison | Pat Neshek | ? | ?
@@ -34,7 +34,7 @@ imagefeature: hof.jpg
 21 | DET | Kennys Vargas | CJ Cron | Garin Cecchini (LAS) | ? | ?
 22 | GAS | Ken Giles | Maikel Franco | Rafael Montero | ? | ?
 23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | TJ House (PRS) | LIN | ?
-24 | ATX | Dalton Pompey | Daniel Norris | ? | GAS | HOL
+24 | ATX | Dalton Pompey | Daniel Norris | Cory Rasmus | GAS | HOL
 
 <br>
 
