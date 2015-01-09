@@ -17,12 +17,12 @@ imagefeature: hof.jpg
 4 | LFF | Jacob deGrom | Collin McHugh | Andrew Heaney | Tony Sipp | ?
 5 | LIN | Jorge Soler (SCO) | Dilson Herrera | Enrique Hernandez | David Lough | ?
 6 | MAG | Gregory Polanco (LAS) | Casey McGehee | Blake Treinen | Elian Herrera | ?
-7 | TAL | Danny Santana | Robinson Chirinos | Vidal Nuno | ? | ?
-8 | HOL | George Springer | Zach Britton | Neil Ramirez (GAS) | ATX | ATX
-9 | MUD | Brock Holt | Drew Hutchison | Pat Neshek | ? | ?
-10 | SCO | Rougned Odor | Yangervis Solarte | Neftali Feliz (LIN) | ? | ?
-11 | CHI | Javier Baez | Ruby De La Rosa | Tyler Matzek | ? | ?
-12 | CAL | Joe Panik (THE) | Hector Rondon | Fernando Abad | ? | ?
+7 | TAL | Danny Santana | Robinson Chirinos | Vidal Nuno | James Jones | ?
+8 | HOL | George Springer | Zach Britton | Neil Ramirez (GAS) | Ramon Santiago (ATX) | ATX
+9 | MUD | Brock Holt | Drew Hutchison | Pat Neshek | Ruben Tejada | ?
+10 | SCO | Rougned Odor | Yangervis Solarte | Neftali Feliz (LIN) | Jonathan Broxton | ?
+11 | CHI | Javier Baez | Ruby De La Rosa | Tyler Matzek | Freddy Galvis | ?
+12 | CAL | Joe Panik (THE) | Hector Rondon | Fernando Abad | Carlos Sanchez | ?
 13 | DEL | Jon Singleton | Leury Garcia | Jeurys Familia | ? | ?
 14 | CRB | Lorenzo Cain | Roenis Elias | Shae Simmons | ? | ?
 15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | ? | ?
