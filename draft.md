@@ -23,13 +23,13 @@ imagefeature: hof.jpg
 10 | SCO | Rougned Odor | Yangervis Solarte | Neftali Feliz (LIN) | Jonathan Broxton | ?
 11 | CHI | Javier Baez | Ruby De La Rosa | Tyler Matzek | Freddy Galvis | ?
 12 | CAL | Joe Panik (THE) | Hector Rondon | Fernando Abad | Carlos Sanchez | ?
-13 | DEL | Jon Singleton | Leury Garcia | Jeurys Familia | ? | ?
-14 | CRB | Lorenzo Cain | Roenis Elias | Shae Simmons | ? | ?
-15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | ? | ?
-16 | SAL | Dellin Betances | David Peralta | Chris Taylor | ? | ?
-17 | HIL | Kevin Kiermaier | Matt Shoemaker | Travis Snyder | ? | ?
-18 | TEX | Marcus Stroman | Jesse Hahn | Michael McKenry | ? | ?
-19 | SAX | Masahiro Tanaka | Rene Rivera | Chris Young | ? | ?
+13 | DEL | Jon Singleton | Leury Garcia | Jeurys Familia | Philip Gosselin | ?
+14 | CRB | Lorenzo Cain | Roenis Elias | Shae Simmons | Andrew Susac | ?
+15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | Mike Morin | ?
+16 | SAL | Dellin Betances | David Peralta | Chris Taylor | Odrisamer Despaigne | ?
+17 | HIL | Kevin Kiermaier | Matt Shoemaker | Travis Snyder | Brandon Barnes | ?
+18 | TEX | Marcus Stroman | Jesse Hahn | Michael McKenry | Kristopher Negron | ?
+19 | SAX | Masahiro Tanaka | Rene Rivera | Chris Young | Marco Gonzales | ?
 20 | JUN | Aaron Sanchez | Shane Green | Steven Moya | ? | ?
 21 | DET | Kennys Vargas | CJ Cron | Garin Cecchini (LAS) | ? | ?
 22 | GAS | Ken Giles | Maikel Franco | Rafael Montero | ? | ?
