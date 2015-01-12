@@ -11,18 +11,18 @@ imagefeature: hof.jpg
 
 \# | Team | Round 1 | Round 2 | Round 3 | Round 4 | Round 5 
 --|------|---------|---------|---------|---------|---------
-1 | THE | Jose Abreu (CAL) | Steven Souza | Jake Lamb | Justin Bour | ?
-2 | LAS | Joc Pederson | Arismendy Alcantara | Kyle Hendricks | Randal Grichuk | ?
-3 | PRS | Mookie Betts | Christian Vazquez | Ender Inciarte (HOL) | Eugenio Suarez | ?
-4 | LFF | Jacob deGrom | Collin McHugh | Andrew Heaney | Tony Sipp | ?
-5 | LIN | Jorge Soler (SCO) | Dilson Herrera | Enrique Hernandez | David Lough | ?
-6 | MAG | Gregory Polanco (LAS) | Casey McGehee | Blake Treinen | Elian Herrera | ?
-7 | TAL | Danny Santana | Robinson Chirinos | Vidal Nuno | James Jones | ?
-8 | HOL | George Springer | Zach Britton | Neil Ramirez (GAS) | Ramon Santiago (ATX) | ATX
-9 | MUD | Brock Holt | Drew Hutchison | Pat Neshek | Ruben Tejada | ?
-10 | SCO | Rougned Odor | Yangervis Solarte | Neftali Feliz (LIN) | Jonathan Broxton | ?
-11 | CHI | Javier Baez | Ruby De La Rosa | Tyler Matzek | Freddy Galvis | ?
-12 | CAL | Joe Panik (THE) | Hector Rondon | Fernando Abad | Carlos Sanchez | ?
+1 | THE | Jose Abreu (CAL) | Steven Souza | Jake Lamb | Justin Bour | Christian Walker
+2 | LAS | Joc Pederson | Arismendy Alcantara | Kyle Hendricks | Randal Grichuk | Cory Spangenburg
+3 | PRS | Mookie Betts | Christian Vazquez | Ender Inciarte (HOL) | Eugenio Suarez | Anthony Ranaudo
+4 | LFF | Jacob deGrom | Collin McHugh | Andrew Heaney | Tony Sipp | Tommy Hunter
+5 | LIN | Jorge Soler (SCO) | Dilson Herrera | Enrique Hernandez | David Lough | Tommy La Stella
+6 | MAG | Gregory Polanco (LAS) | Casey McGehee | Blake Treinen | Elian Herrera | Ryan Rua
+7 | TAL | Danny Santana | Robinson Chirinos | Vidal Nuno | James Jones | James Russell
+8 | HOL | George Springer | Zach Britton | Neil Ramirez (GAS) | Ramon Santiago (ATX) | Sam Fuld (ATX)
+9 | MUD | Brock Holt | Drew Hutchison | Pat Neshek | Ruben Tejada | Steven Tolleson
+10 | SCO | Rougned Odor | Yangervis Solarte | Neftali Feliz (LIN) | Jonathan Broxton | Jonathan Villar
+11 | CHI | Javier Baez | Ruby De La Rosa | Tyler Matzek | Freddy Galvis | Kevin Quackenbush
+12 | CAL | Joe Panik (THE) | Hector Rondon | Fernando Abad | Carlos Sanchez | Zach Duke
 13 | DEL | Jon Singleton | Leury Garcia | Jeurys Familia | Philip Gosselin | ?
 14 | CRB | Lorenzo Cain | Roenis Elias | Shae Simmons | Andrew Susac | ?
 15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | Mike Morin | ?
@@ -30,11 +30,11 @@ imagefeature: hof.jpg
 17 | HIL | Kevin Kiermaier | Matt Shoemaker | Travis Snyder | Brandon Barnes | ?
 18 | TEX | Marcus Stroman | Jesse Hahn | Michael McKenry | Kristopher Negron | ?
 19 | SAX | Masahiro Tanaka | Rene Rivera | Chris Young | Marco Gonzales | ?
-20 | JUN | Aaron Sanchez | Shane Green | Steven Moya | ? | ?
-21 | DET | Kennys Vargas | CJ Cron | Garin Cecchini (LAS) | ? | ?
-22 | GAS | Ken Giles | Maikel Franco | Rafael Montero | ? | ?
-23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | TJ House (PRS) | LIN | ?
-24 | ATX | Dalton Pompey | Daniel Norris | Cory Rasmus | GAS | HOL
+20 | JUN | Aaron Sanchez | Shane Green | Steven Moya | Kevin Jepsen | ?
+21 | DET | Kennys Vargas | CJ Cron | Garin Cecchini (LAS) | Vance Worley | ?
+22 | GAS | Ken Giles | Maikel Franco | Rafael Montero | Domingo Santana | ?
+23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | TJ House (PRS) | Caleb Joseph (LIN) | ?
+24 | ATX | Dalton Pompey | Daniel Norris | Cory Rasmus | Josh Edgin (GAS) | HOL
 
 <br>
 
