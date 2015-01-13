@@ -27,14 +27,14 @@ imagefeature: hof.jpg
 14 | CRB | Lorenzo Cain | Roenis Elias | Shae Simmons | Andrew Susac | Dominic Leone
 15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | Mike Morin | Evan Marshall
 16 | SAL | Dellin Betances | David Peralta | Chris Taylor | Odrisamer Despaigne | Kyle Lobenstein
-17 | HIL | Kevin Kiermaier | Matt Shoemaker | Travis Snyder | Brandon Barnes | ?
-18 | TEX | Marcus Stroman | Jesse Hahn | Michael McKenry | Kristopher Negron | ?
-19 | SAX | Masahiro Tanaka | Rene Rivera | Chris Young | Marco Gonzales | ?
-20 | JUN | Aaron Sanchez | Shane Green | Steven Moya | Kevin Jepsen | ?
-21 | DET | Kennys Vargas | CJ Cron | Garin Cecchini (LAS) | Vance Worley | ?
-22 | GAS | Ken Giles | Maikel Franco | Rafael Montero | Domingo Santana | ?
-23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | TJ House (PRS) | Caleb Joseph (LIN) | ?
-24 | ATX | Dalton Pompey | Daniel Norris | Cory Rasmus | Josh Edgin (GAS) | HOL
+17 | HIL | Kevin Kiermaier | Matt Shoemaker | Travis Snyder | Brandon Barnes | Brandon Guyer
+18 | TEX | Marcus Stroman | Jesse Hahn | Michael McKenry | Kristopher Negron | Zach Putnam
+19 | SAX | Masahiro Tanaka | Rene Rivera | NYY Chris Young | Marco Gonzales | Chris Stewart
+20 | JUN | Aaron Sanchez | Shane Green | Steven Moya | Kevin Jepsen | Aaron Harang
+21 | DET | Kennys Vargas | CJ Cron | Garin Cecchini (LAS) | Vance Worley | Nick Swisher
+22 | GAS | Ken Giles | Maikel Franco | Rafael Montero | Domingo Santana | Eric Campbell
+23 | FLR | Michael Taylor WSN (ATX) | Brandon Finnegan (ATX) | TJ House (PRS) | Caleb Joseph (LIN) | SEA Chris Young
+24 | ATX | Dalton Pompey | Daniel Norris | Cory Rasmus | Josh Edgin (GAS) | Jared Hughes (HOL)
 
 <br>
 
