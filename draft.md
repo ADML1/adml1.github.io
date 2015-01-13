@@ -23,10 +23,10 @@ imagefeature: hof.jpg
 10 | SCO | Rougned Odor | Yangervis Solarte | Neftali Feliz (LIN) | Jonathan Broxton | Jonathan Villar
 11 | CHI | Javier Baez | Ruby De La Rosa | Tyler Matzek | Freddy Galvis | Kevin Quackenbush
 12 | CAL | Joe Panik (THE) | Hector Rondon | Fernando Abad | Carlos Sanchez | Zach Duke
-13 | DEL | Jon Singleton | Leury Garcia | Jeurys Familia | Philip Gosselin | ?
-14 | CRB | Lorenzo Cain | Roenis Elias | Shae Simmons | Andrew Susac | ?
-15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | Mike Morin | ?
-16 | SAL | Dellin Betances | David Peralta | Chris Taylor | Odrisamer Despaigne | ?
+13 | DEL | Jon Singleton | Leury Garcia | Jeurys Familia | Philip Gosselin | Hector Noesi
+14 | CRB | Lorenzo Cain | Roenis Elias | Shae Simmons | Andrew Susac | Dominic Leone
+15 | GEN | Rusney Castillo | David Buchanan | Chase Anderson | Mike Morin | Evan Marshall
+16 | SAL | Dellin Betances | David Peralta | Chris Taylor | Odrisamer Despaigne | Kyle Lobenstein
 17 | HIL | Kevin Kiermaier | Matt Shoemaker | Travis Snyder | Brandon Barnes | ?
 18 | TEX | Marcus Stroman | Jesse Hahn | Michael McKenry | Kristopher Negron | ?
 19 | SAX | Masahiro Tanaka | Rene Rivera | Chris Young | Marco Gonzales | ?
