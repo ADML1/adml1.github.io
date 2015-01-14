@@ -40,12 +40,12 @@ imagefeature: hof.jpg
 
 \# | Team | Round 6 | Round 7 | Round 8 | Round 9 | Round 10
 ---|------|---------|---------|---------|---------|----------
-1 | THE | ? | ? | ? | ? | ?
-2 | LAS | ? | ? | ? | ? | ?
-3 | PRS | ? | ? | ? | ? | ?
-4 | LFF | ? | ? | ? | ? | ?
-5 | LIN | SCO | ? | ? | ? | ?
-6 | MAG | ? | ? | ? | ? | ?
+1 | THE | Nick Martinez | ? | ? | ? | ?
+2 | LAS | Grady Sizemore | ? | ? | ? | ?
+3 | PRS | J.T. Realmuto | ? | ? | ? | ?
+4 | LFF | Kirk Nieuwenhuis | ? | ? | ? | ?
+5 | LIN | Ryan Hanigan (SCO) | ? | ? | ? | ?
+6 | MAG | Daniel Robertson | ? | ? | ? | ?
 7 | TAL | ? | ? | ? | ? | ?
 8 | HOL | ? | FLR | ? | ? | ?
 9 | MUD | ? | ? | ? | ? | ?
