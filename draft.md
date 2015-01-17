@@ -40,7 +40,7 @@ imagefeature: hof.jpg
 
 \# | Team | Round 6 | Round 7 | Round 8 | Round 9 | Round 10
 ---|------|---------|---------|---------|---------|----------
-1 | THE | Nick Martinez | ? | ? | ? | ?
+1 | THE | Nick Martinez | Jose Molina | ? | ? | ?
 2 | LAS | Grady Sizemore | ? | ? | ? | ?
 3 | PRS | J.T. Realmuto | ? | ? | ? | ?
 4 | LFF | Kirk Nieuwenhuis | ? | ? | ? | ?
@@ -53,17 +53,17 @@ imagefeature: hof.jpg
 11 | CHI | Justin Grimm | ? | ? | ? | ?
 12 | CAL | Hunter Strickland | ? | ? | ? | ?
 13 | DEL | Luis Sardinas | ? | ? | ? | ?
-14 | CRB | ? | ? | ? | ? | ?
+14 | CRB | Rymer Liriano | ? | ? | ? | ?
 15 | GEN | Jake Petricka | ? | ? | ? | ?
-16 | SAL | ? | ? | ? | ? | ?
-17 | HIL | ? | ? | ? | ? | ?
-18 | TEX | ? | ? | ? | ? | ?
-19 | SAX | ? | ? | ? | ? | ?
-20 | JUN | ? | ? | ? | ? | ?
-21 | DET | ? | ? | ? | ? | ?
-22 | GAS | ? | ? | ? | ? | ?
-23 | FLR | ? | ? | ? | ? | ?
-24 | ATX | FLR | HOL | ? | ? | ?
+16 | SAL | Mike Olt | ? | ? | ? | ?
+17 | HIL | Tsuyoshi Wada | ? | ? | ? | ?
+18 | TEX | John Mayberry | ? | ? | ? | ?
+19 | SAX | Adam Rosales | ? | ? | ? | ?
+20 | JUN | Munenori Kawasaki | ? | ? | ? | ?
+21 | DET | Brad Hand | ? | ? | ? | ?
+22 | GAS | Josh Phegley | ? | ? | ? | ?
+23 | FLR | Mike Aviles | ? | ? | ? | ?
+24 | ATX | Sam Dyson (FLR) | HOL | ? | ? | ?
 
 <br>
 

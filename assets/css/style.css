@@ -251,7 +251,7 @@ pre {
   line-height: 1.5em;
 }
 .hyper {
-  font-size: 72px;
+  font-size: 60px;
   font-weight: bold;
   text-align: center;
   line-height: 1;
@@ -489,8 +489,8 @@ html {
 
 /* - Blog title and description - */
 .blog-title {
-  font-size: 60px;
-  line-height: 60px;
+  font-size: 72px;
+  line-height: 72px;
   text-transform: uppercase;
   margin-bottom: 12px;
 }
@@ -676,16 +676,17 @@ html {
   position: relative;
   /*background-color: #000;*/
   /*display: block;*/
-  vertical-align: top;
+  /*vertical-align: top;*/
+  vertical-align: middle;
   bottom: 0;
   left: 0;
   clear: both;
   z-index: 10;
 }
-.align-middle .inner {
+.align-middle {
   vertical-align: middle;
 }
-.align-bottom .inner {
+.align-bottom {
   vertical-align: bottom;
 }
 /*@media (max-width: 767px) {
