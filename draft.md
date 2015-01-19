@@ -41,20 +41,20 @@ imagefeature: hof.jpg
 \# | Team | Round 6 | Round 7 | Round 8 | Round 9 | Round 10
 ---|------|---------|---------|---------|---------|----------
 1 | THE | Nick Martinez | Jose Molina | ? | ? | ?
-2 | LAS | Grady Sizemore | ? | ? | ? | ?
-3 | PRS | J.T. Realmuto | ? | ? | ? | ?
-4 | LFF | Kirk Nieuwenhuis | ? | ? | ? | ?
-5 | LIN | Ryan Hanigan (SCO) | ? | ? | ? | ?
-6 | MAG | Daniel Robertson | ? | ? | ? | ?
-7 | TAL | Shawn Tolleson | ? | ? | ? | ?
-8 | HOL | Josh Willingham | FLR | ? | ? | ?
-9 | MUD | Jerry Blevins | ? | ? | ? | ?
-10 | SCO | Buck Farmer | ? | ? | ? | ?
-11 | CHI | Justin Grimm | ? | ? | ? | ?
-12 | CAL | Hunter Strickland | ? | ? | ? | ?
+2 | LAS | Grady Sizemore | Brandon Maurer | ? | ? | ?
+3 | PRS | J.T. Realmuto | Eric Young | ? | ? | ?
+4 | LFF | Kirk Nieuwenhuis | Yoervis Medina | ? | ? | ?
+5 | LIN | Ryan Hanigan (SCO) | Javy Guerra | ? | ? | ?
+6 | MAG | Daniel Robertson | Josh Fields | ? | ? | ?
+7 | TAL | Shawn Tolleson | Roman Mendez | ? | ? | ?
+8 | HOL | Josh Willingham | Martin Maldonado (FLR) | ? | ? | ?
+9 | MUD | Jerry Blevins | Juan Gutierrez | ? | ? | ?
+10 | SCO | Buck Farmer | Matt Barnes | ? | ? | ?
+11 | CHI | Justin Grimm | Chris Heisey (HOL) | ? | ? | ?
+12 | CAL | Hunter Strickland | Bryan Holaday | ? | ? | ?
 13 | DEL | Luis Sardinas | ? | ? | ? | ?
-14 | CRB | Rymer Liriano | ? | ? | ? | ?
-15 | GEN | Jake Petricka | ? | ? | ? | ?
+14 | CRB | Rymer Liriano | Darwin Barney | ? | ? | ?
+15 | GEN | Jake Petricka | Adam Duvall | ? | ? | ?
 16 | SAL | Mike Olt | ? | ? | ? | ?
 17 | HIL | Tsuyoshi Wada | ? | ? | ? | ?
 18 | TEX | John Mayberry | ? | ? | ? | ?
