@@ -52,17 +52,17 @@ imagefeature: hof.jpg
 10 | SCO | Buck Farmer | Matt Barnes | ? | ? | ?
 11 | CHI | Justin Grimm | Chris Heisey (HOL) | ? | ? | ?
 12 | CAL | Hunter Strickland | Bryan Holaday | ? | ? | ?
-13 | DEL | Luis Sardinas | ? | ? | ? | ?
+13 | DEL | Luis Sardinas | Blaine Hardy | ? | ? | ?
 14 | CRB | Rymer Liriano | Darwin Barney | ? | ? | ?
 15 | GEN | Jake Petricka | Adam Duvall | ? | ? | ?
-16 | SAL | Mike Olt | ? | ? | ? | ?
-17 | HIL | Tsuyoshi Wada | ? | ? | ? | ?
-18 | TEX | John Mayberry | ? | ? | ? | ?
-19 | SAX | Adam Rosales | ? | ? | ? | ?
-20 | JUN | Munenori Kawasaki | ? | ? | ? | ?
-21 | DET | Brad Hand | ? | ? | ? | ?
-22 | GAS | Josh Phegley | ? | ? | ? | ?
-23 | FLR | Mike Aviles | ? | ? | ? | ?
+16 | SAL | Mike Olt | Josh Tomlin | ? | ? | ?
+17 | HIL | Tsuyoshi Wada | Roberto Perez | ? | ? | ?
+18 | TEX | John Mayberry | Corey Hart | ? | ? | ?
+19 | SAX | Adam Rosales | Matt Thornton | ? | ? | ?
+20 | JUN | Munenori Kawasaki | Danny Descalso | ? | ? | ?
+21 | DET | Brad Hand | Jake Smolinski | ? | ? | ?
+22 | GAS | Josh Phegley | Jorge Polanco | ? | ? | ?
+23 | FLR | Mike Aviles | Christian Colon | ? | ? | ?
 24 | ATX | Sam Dyson (FLR) | HOL | ? | ? | ?
 
 <br>
