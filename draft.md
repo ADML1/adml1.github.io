@@ -40,13 +40,13 @@ imagefeature: hof.jpg
 
 \# | Team | Round 6 | Round 7 | Round 8 | Round 9 | Round 10
 ---|------|---------|---------|---------|---------|----------
-1 | THE | Nick Martinez | Jose Molina | ? | ? | ?
-2 | LAS | Grady Sizemore | Brandon Maurer | ? | ? | ?
-3 | PRS | J.T. Realmuto | Eric Young | ? | ? | ?
-4 | LFF | Kirk Nieuwenhuis | Yoervis Medina | ? | ? | ?
-5 | LIN | Ryan Hanigan (SCO) | Javy Guerra | ? | ? | ?
-6 | MAG | Daniel Robertson | Josh Fields | ? | ? | ?
-7 | TAL | Shawn Tolleson | Roman Mendez | ? | ? | ?
+1 | THE | Nick Martinez | Jose Molina | Jose Pirela | ? | ?
+2 | LAS | Grady Sizemore | Brandon Maurer | Nick Tepesch | ? | ?
+3 | PRS | J.T. Realmuto | Eric Young | Michael Foltynewicz | ? | ?
+4 | LFF | Kirk Nieuwenhuis | Yoervis Medina | Stephen Drew | ? | ?
+5 | LIN | Ryan Hanigan (SCO) | Javy Guerra | Alexi Ogando | ? | ?
+6 | MAG | Daniel Robertson | Josh Fields | Marc Rzepczynski | ? | ?
+7 | TAL | Shawn Tolleson | Roman Mendez | Jordan Danks | ? | ?
 8 | HOL | Josh Willingham | Martin Maldonado (FLR) | ? | ? | ?
 9 | MUD | Jerry Blevins | Juan Gutierrez | ? | ? | ?
 10 | SCO | Buck Farmer | Matt Barnes | ? | ? | ?
@@ -63,7 +63,7 @@ imagefeature: hof.jpg
 21 | DET | Brad Hand | Jake Smolinski | ? | ? | ?
 22 | GAS | Josh Phegley | Jorge Polanco | ? | ? | ?
 23 | FLR | Mike Aviles | Christian Colon | ? | ? | ?
-24 | ATX | Sam Dyson (FLR) | HOL | ? | ? | ?
+24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | ? | ? | ?
 
 <br>
 
