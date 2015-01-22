@@ -52,12 +52,12 @@ imagefeature: hof.jpg
 10 | SCO | Buck Farmer | Matt Barnes | Corey Knebel | ? | ?
 11 | CHI | Justin Grimm | Chris Heisey (HOL) | Yohan Flande | ? | ?
 12 | CAL | Hunter Strickland | Bryan Holaday | Jerome Williams | ? | ?
-13 | DEL | Luis Sardinas | Blaine Hardy | ? | ? | ?
-14 | CRB | Rymer Liriano | Darwin Barney | ? | ? | ?
-15 | GEN | Jake Petricka | Adam Duvall | ? | ? | ?
-16 | SAL | Mike Olt | Josh Tomlin | ? | ? | ?
-17 | HIL | Tsuyoshi Wada | Roberto Perez | ? | ? | ?
-18 | TEX | John Mayberry | Corey Hart | ? | ? | ?
+13 | DEL | Luis Sardinas | Blaine Hardy | Brian Schlitter | ? | ?
+14 | CRB | Rymer Liriano | Darwin Barney | Aaron Barrett | ? | ?
+15 | GEN | Jake Petricka | Adam Duvall | Sam Tuivailala | ? | ?
+16 | SAL | Mike Olt | Josh Tomlin | Franklin Morales | ? | ?
+17 | HIL | Tsuyoshi Wada | Roberto Perez | Joe Beimel | ? | ?
+18 | TEX | John Mayberry | Corey Hart | Tommy Kahnle | ? | ?
 19 | SAX | Adam Rosales | Matt Thornton | ? | ? | ?
 20 | JUN | Munenori Kawasaki | Danny Descalso | ? | ? | ?
 21 | DET | Brad Hand | Jake Smolinski | ? | ? | ?
