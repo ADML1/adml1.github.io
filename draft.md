@@ -58,11 +58,11 @@ imagefeature: hof.jpg
 16 | SAL | Mike Olt | Josh Tomlin | Franklin Morales | ? | ?
 17 | HIL | Tsuyoshi Wada | Roberto Perez | Joe Beimel | ? | ?
 18 | TEX | John Mayberry | Corey Hart | Tommy Kahnle | ? | ?
-19 | SAX | Adam Rosales | Matt Thornton | ? | ? | ?
-20 | JUN | Munenori Kawasaki | Danny Descalso | ? | ? | ?
-21 | DET | Brad Hand | Jake Smolinski | ? | ? | ?
-22 | GAS | Josh Phegley | Jorge Polanco | ? | ? | ?
-23 | FLR | Mike Aviles | Christian Colon | ? | ? | ?
+19 | SAX | Adam Rosales | Matt Thornton | John Holdzkom | ? | ?
+20 | JUN | Munenori Kawasaki | Danny Descalso | James McCann | ? | ?
+21 | DET | Brad Hand | Jake Smolinski | Miguel Rojas | ? | ?
+22 | GAS | Josh Phegley | Jorge Polanco | Cam Bedrosian | ? | ?
+23 | FLR | Mike Aviles | Christian Colon | Ben Paulsen | ? | ?
 24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | ? | ? | ?
 
 <br>
