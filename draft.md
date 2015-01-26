@@ -47,22 +47,22 @@ imagefeature: hof.jpg
 5 | LIN | Ryan Hanigan (SCO) | Javy Guerra | Alexi Ogando | Neftali Soto | ?
 6 | MAG | Daniel Robertson | Josh Fields | Marc Rzepczynski | Lisalverto Bonilla | ?
 7 | TAL | Shawn Tolleson | Roman Mendez | Jordan Danks | Casey Janssen | ?
-8 | HOL | Josh Willingham | Martin Maldonado (FLR) | Gaby Sanchez | ? | ?
-9 | MUD | Jerry Blevins | Juan Gutierrez | Chad Qualls | ? | ?
-10 | SCO | Buck Farmer | Matt Barnes | Corey Knebel | ? | ?
-11 | CHI | Justin Grimm | Chris Heisey (HOL) | Yohan Flande | ? | ?
-12 | CAL | Hunter Strickland | Bryan Holaday | Jerome Williams | ? | ?
-13 | DEL | Luis Sardinas | Blaine Hardy | Brian Schlitter | ? | ?
-14 | CRB | Rymer Liriano | Darwin Barney | Aaron Barrett | ? | ?
-15 | GEN | Jake Petricka | Adam Duvall | Sam Tuivailala | ? | ?
-16 | SAL | Mike Olt | Josh Tomlin | Franklin Morales | ? | ?
-17 | HIL | Tsuyoshi Wada | Roberto Perez | Joe Beimel | ? | ?
-18 | TEX | John Mayberry | Corey Hart | Tommy Kahnle | ? | ?
-19 | SAX | Adam Rosales | Matt Thornton | John Holdzkom | ? | ?
-20 | JUN | Munenori Kawasaki | Danny Descalso | James McCann | ? | ?
-21 | DET | Brad Hand | Jake Smolinski | Miguel Rojas | ? | ?
-22 | GAS | Josh Phegley | Jorge Polanco | Cam Bedrosian | ? | ?
-23 | FLR | Mike Aviles | Christian Colon | Ben Paulsen | ? | ?
+8 | HOL | Josh Willingham | Martin Maldonado (FLR) | Gaby Sanchez | Kevin Pillar | ?
+9 | MUD | Jerry Blevins | Juan Gutierrez | Chad Qualls | Randy Choate | ?
+10 | SCO | Buck Farmer | Matt Barnes | Corey Knebel | Tomas Telis | ?
+11 | CHI | Justin Grimm | Chris Heisey (HOL) | Yohan Flande | Fernando Salas | ?
+12 | CAL | Hunter Strickland | Bryan Holaday | Jerome Williams | Joe Nathan | ?
+13 | DEL | Luis Sardinas | Blaine Hardy | Brian Schlitter | Ramiro Pena | ?
+14 | CRB | Rymer Liriano | Darwin Barney | Aaron Barrett | Travis Ishikawa | ?
+15 | GEN | Jake Petricka | Adam Duvall | Sam Tuivailala | Donn Roach | ?
+16 | SAL | Mike Olt | Josh Tomlin | Franklin Morales | Adrian Nieto | ?
+17 | HIL | Tsuyoshi Wada | Roberto Perez | Joe Beimel | Mitch Moreland | ?
+18 | TEX | John Mayberry | Corey Hart | Tommy Kahnle | JJ Hoover | ?
+19 | SAX | Adam Rosales | Matt Thornton | John Holdzkom | Chris Hatcher | ?
+20 | JUN | Munenori Kawasaki | Danny Descalso | James McCann | David Huff | ?
+21 | DET | Brad Hand | Jake Smolinski | Miguel Rojas | Nick Tropeano | ?
+22 | GAS | Josh Phegley | Jorge Polanco | Cam Bedrosian | Eddie Butler | ?
+23 | FLR | Mike Aviles | Christian Colon | Ben Paulsen | Kyle Crockett | ?
 24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | Tucker Barnhart | ? | ?
 
 <br>
