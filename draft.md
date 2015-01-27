@@ -40,13 +40,13 @@ imagefeature: hof.jpg
 
 \# | Team | Round 6 | Round 7 | Round 8 | Round 9 | Round 10
 ---|------|---------|---------|---------|---------|----------
-1 | THE | Nick Martinez | Jose Molina | Jose Pirela | Anthony DeSclafani | ?
-2 | LAS | Grady Sizemore | Brandon Maurer | Nick Tepesch | Charlie Culberson | ?
-3 | PRS | J.T. Realmuto | Eric Young | Michael Foltynewicz | Kelly Johnson | ?
-4 | LFF | Kirk Nieuwenhuis | Yoervis Medina | Stephen Drew | Tanner Scheppers | ?
-5 | LIN | Ryan Hanigan (SCO) | Javy Guerra | Alexi Ogando | Neftali Soto | ?
-6 | MAG | Daniel Robertson | Josh Fields | Marc Rzepczynski | Lisalverto Bonilla | ?
-7 | TAL | Shawn Tolleson | Roman Mendez | Jordan Danks | Casey Janssen | ?
+1 | THE | Nick Martinez | Jose Molina | Jose Pirela | Anthony DeSclafani | Eric Stults
+2 | LAS | Grady Sizemore | Brandon Maurer | Nick Tepesch | Charlie Culberson | Colby Lewis
+3 | PRS | J.T. Realmuto | Eric Young | Michael Foltynewicz | Kelly Johnson | Nate Schierholtz
+4 | LFF | Kirk Nieuwenhuis | Yoervis Medina | Stephen Drew | Tanner Scheppers | Alex Guerrero
+5 | LIN | Ryan Hanigan (SCO) | Javy Guerra | Alexi Ogando | Neftali Soto | Nick Greenwood
+6 | MAG | Daniel Robertson | Josh Fields | Marc Rzepczynski | Lisalverto Bonilla | N/A
+7 | TAL | Shawn Tolleson | Roman Mendez | Jordan Danks | Casey Janssen | Oscar Taveras
 8 | HOL | Josh Willingham | Martin Maldonado (FLR) | Gaby Sanchez | Kevin Pillar | ?
 9 | MUD | Jerry Blevins | Juan Gutierrez | Chad Qualls | Randy Choate | ?
 10 | SCO | Buck Farmer | Matt Barnes | Corey Knebel | Tomas Telis | ?
@@ -63,7 +63,7 @@ imagefeature: hof.jpg
 21 | DET | Brad Hand | Jake Smolinski | Miguel Rojas | Nick Tropeano | ?
 22 | GAS | Josh Phegley | Jorge Polanco | Cam Bedrosian | Eddie Butler | ?
 23 | FLR | Mike Aviles | Christian Colon | Ben Paulsen | Kyle Crockett | ?
-24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | Tucker Barnhart | ? | ?
+24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | Tucker Barnhart | Kevin Kouzmanoff | ?
 
 <br>
 
