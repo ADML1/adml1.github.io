@@ -51,7 +51,7 @@ imagefeature: hof.jpg
 9 | MUD | Jerry Blevins | Juan Gutierrez | Chad Qualls | Randy Choate | Paul Konerko
 10 | SCO | Buck Farmer | Matt Barnes | Corey Knebel | Tomas Telis | Jared Burton
 11 | CHI | Justin Grimm | Chris Heisey (HOL) | Yohan Flande | Fernando Salas | Daniel Webb
-12 | CAL | Hunter Strickland | Bryan Holaday | Jerome Williams | Joe Nathan | ?
+12 | CAL | Hunter Strickland | Bryan Holaday | Jerome Williams | Joe Nathan | Tuffy Gosewisch
 13 | DEL | Luis Sardinas | Blaine Hardy | Brian Schlitter | Ramiro Pena | ?
 14 | CRB | Rymer Liriano | Darwin Barney | Aaron Barrett | Travis Ishikawa | ?
 15 | GEN | Jake Petricka | Adam Duvall | Sam Tuivailala | Donn Roach | ?
