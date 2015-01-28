@@ -47,10 +47,10 @@ imagefeature: hof.jpg
 5 | LIN | Ryan Hanigan (SCO) | Javy Guerra | Alexi Ogando | Neftali Soto | Nick Greenwood
 6 | MAG | Daniel Robertson | Josh Fields | Marc Rzepczynski | Lisalverto Bonilla | N/A
 7 | TAL | Shawn Tolleson | Roman Mendez | Jordan Danks | Casey Janssen | Oscar Taveras
-8 | HOL | Josh Willingham | Martin Maldonado (FLR) | Gaby Sanchez | Kevin Pillar | ?
-9 | MUD | Jerry Blevins | Juan Gutierrez | Chad Qualls | Randy Choate | ?
-10 | SCO | Buck Farmer | Matt Barnes | Corey Knebel | Tomas Telis | ?
-11 | CHI | Justin Grimm | Chris Heisey (HOL) | Yohan Flande | Fernando Salas | ?
+8 | HOL | Josh Willingham | Martin Maldonado (FLR) | Gaby Sanchez | Kevin Pillar | LJ Hoes
+9 | MUD | Jerry Blevins | Juan Gutierrez | Chad Qualls | Randy Choate | Paul Konerko
+10 | SCO | Buck Farmer | Matt Barnes | Corey Knebel | Tomas Telis | Jared Burton
+11 | CHI | Justin Grimm | Chris Heisey (HOL) | Yohan Flande | Fernando Salas | Daniel Webb
 12 | CAL | Hunter Strickland | Bryan Holaday | Jerome Williams | Joe Nathan | ?
 13 | DEL | Luis Sardinas | Blaine Hardy | Brian Schlitter | Ramiro Pena | ?
 14 | CRB | Rymer Liriano | Darwin Barney | Aaron Barrett | Travis Ishikawa | ?
