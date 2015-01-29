@@ -52,13 +52,13 @@ imagefeature: hof.jpg
 10 | SCO | Buck Farmer | Matt Barnes | Corey Knebel | Tomas Telis | Jared Burton
 11 | CHI | Justin Grimm | Chris Heisey (HOL) | Yohan Flande | Fernando Salas | Daniel Webb
 12 | CAL | Hunter Strickland | Bryan Holaday | Jerome Williams | Joe Nathan | Tuffy Gosewisch
-13 | DEL | Luis Sardinas | Blaine Hardy | Brian Schlitter | Ramiro Pena | ?
-14 | CRB | Rymer Liriano | Darwin Barney | Aaron Barrett | Travis Ishikawa | ?
-15 | GEN | Jake Petricka | Adam Duvall | Sam Tuivailala | Donn Roach | ?
-16 | SAL | Mike Olt | Josh Tomlin | Franklin Morales | Adrian Nieto | ?
-17 | HIL | Tsuyoshi Wada | Roberto Perez | Joe Beimel | Mitch Moreland | ?
-18 | TEX | John Mayberry | Corey Hart | Tommy Kahnle | JJ Hoover | ?
-19 | SAX | Adam Rosales | Matt Thornton | John Holdzkom | Chris Hatcher | ?
+13 | DEL | Luis Sardinas | Blaine Hardy | Brian Schlitter | Ramiro Pena | Matt den Dekker
+14 | CRB | Rymer Liriano | Darwin Barney | Aaron Barrett | Travis Ishikawa | Jason Frasor
+15 | GEN | Jake Petricka | Adam Duvall | Sam Tuivailala | Donn Roach | Jesus Angular
+16 | SAL | Mike Olt | Josh Tomlin | Franklin Morales | Adrian Nieto | Spencer Patton
+17 | HIL | Tsuyoshi Wada | Roberto Perez | Joe Beimel | Mitch Moreland | Alex Presley
+18 | TEX | John Mayberry | Corey Hart | Tommy Kahnle | JJ Hoover | Derek Dietrich
+19 | SAX | Adam Rosales | Matt Thornton | John Holdzkom | Chris Hatcher | Sam Freeman
 20 | JUN | Munenori Kawasaki | Danny Descalso | James McCann | David Huff | ?
 21 | DET | Brad Hand | Jake Smolinski | Miguel Rojas | Nick Tropeano | ?
 22 | GAS | Josh Phegley | Jorge Polanco | Cam Bedrosian | Eddie Butler | ?
