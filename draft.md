@@ -59,10 +59,10 @@ imagefeature: hof.jpg
 17 | HIL | Tsuyoshi Wada | Roberto Perez | Joe Beimel | Mitch Moreland | Alex Presley
 18 | TEX | John Mayberry | Corey Hart | Tommy Kahnle | JJ Hoover | Derek Dietrich
 19 | SAX | Adam Rosales | Matt Thornton | John Holdzkom | Chris Hatcher | Sam Freeman
-20 | JUN | Munenori Kawasaki | Danny Descalso | James McCann | David Huff | ?
-21 | DET | Brad Hand | Jake Smolinski | Miguel Rojas | Nick Tropeano | ?
-22 | GAS | Josh Phegley | Jorge Polanco | Cam Bedrosian | Eddie Butler | ?
-23 | FLR | Mike Aviles | Christian Colon | Ben Paulsen | Kyle Crockett | ?
+20 | JUN | Munenori Kawasaki | Danny Descalso | James McCann | David Huff | Don Kelly
+21 | DET | Brad Hand | Jake Smolinski | Miguel Rojas | Nick Tropeano | Nathan Karns
+22 | GAS | Josh Phegley | Jorge Polanco | Cam Bedrosian | Eddie Butler | Tyler Collins
+23 | FLR | Mike Aviles | Christian Colon | Ben Paulsen | Kyle Crockett | Alex Wilson
 24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | Tucker Barnhart | Kevin Kouzmanoff | ?
 
 <br>
