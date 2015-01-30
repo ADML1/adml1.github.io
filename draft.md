@@ -66,6 +66,7 @@ imagefeature: hof.jpg
 24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | Tucker Barnhart | Kevin Kouzmanoff | ?
 
 <br>
+
 \# | Team | Round 11+
 ---|------|---------
 1 | LAS | ?
