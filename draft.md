@@ -69,14 +69,14 @@ imagefeature: hof.jpg
 
 \# | Team | Round 11+
 ---|------|---------
-1 | LAS | ?
-2 | PRS | ?
-3 | HOL | ?
-4 | SCO | ?
-5 | SAL | ?
-6 | DET | ?
-7 | LAS | ?
-8 | SCO | ?
+1 | LAS | Scott Carroll
+2 | PRS | Bronson Arroyo
+3 | HOL | Moises Sierra
+4 | SCO | Kyle Parker
+5 | SAL | Chasen Shreve
+6 | DET | Jace Peterson
+7 | LAS | Chase Whitley
+8 | SCO | Dan Straily
 
 <br>
 
