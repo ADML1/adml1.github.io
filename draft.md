@@ -63,7 +63,7 @@ imagefeature: hof.jpg
 21 | DET | Brad Hand | Jake Smolinski | Miguel Rojas | Nick Tropeano | Nathan Karns
 22 | GAS | Josh Phegley | Jorge Polanco | Cam Bedrosian | Eddie Butler | Tyler Collins
 23 | FLR | Mike Aviles | Christian Colon | Ben Paulsen | Kyle Crockett | Alex Wilson
-24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | Tucker Barnhart | Kevin Kouzmanoff | ?
+24 | ATX | Sam Dyson (FLR) | Kendall Graveman (HOL) | Tucker Barnhart | Kevin Kouzmanoff | George Kottaras
 
 <br>
 
